@@ -21,7 +21,7 @@ UserForm2
 Folder
 "C:\Macro"
 
-#การนำไปใช้งาน
+# การนำไปใช้งาน
 1. ไฟล์ต้องอยู่ใน Foder "C:\Macro"
 2. เพิ่ม Macro ลงใน SolidWork
 3. คลิกขวาที่ ribbon เลือก Customize...
