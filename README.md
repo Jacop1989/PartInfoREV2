@@ -32,3 +32,4 @@ Folder
 
 ![Untitled2](https://github.com/Jacop1989/PartInfoREV2/assets/31177652/13cb0fff-112c-441b-ab33-4204e353fb17)
 ![Untitled3](https://github.com/Jacop1989/PartInfoREV2/assets/31177652/b668c4d2-b533-45e6-a22b-1d2bec7133f1)
+![Untitled4](https://github.com/Jacop1989/PartInfoREV2/assets/31177652/477462e4-677a-4ef0-a3d9-93f3e316d993)
