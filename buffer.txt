@@ -1,0 +1,10 @@
+Machinename : ABC
+Description : BRACKET
+Material : A2011
+Surfacetreatment : Clear anodized
+Hardness : N/A
+Prepared : SOMKHIT
+Checked : SOMKHIT
+Approved : ANUTHIT
+Revision : A
+Brand : MISUMI

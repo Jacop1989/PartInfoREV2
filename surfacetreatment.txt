@@ -1,0 +1,42 @@
+Zinc Plating
+EDP
+Chromate Plating
+Bright Chromate
+Trivalent Chromate
+Nickel Plating
+NiP
+Electroless Nickel Plating
+Kanigen Plating
+Chrome Plating
+Flash Chrome
+HARD CHROME
+UNI-CHROME
+Black Oxide
+Low Temperature Black Chrome Plating
+White Alumite
+Black Alumite
+White anodized
+Black anodized
+Clear anodized
+Clear ANODIZE
+Hard Anodized
+ALUMITE
+EN
+Coat(Munsell 2.5GY 6/2)
+Coat(Munsell 2.5Y9/1)
+Coat(Munsell 5Y7/1)
+Coat(Munsell 5Y8/1)
+RAI9001
+RAI9002
+RAI9002 (white gray color)
+RAL9003
+PAINTING RAL9001
+PAINTING RAL9002
+PAINTING RAL9003
+PAINTING RAL9010
+NB-127 SPL SILVER
+POWDER COATING
+Hairline
+Polishing
+N/A
+-

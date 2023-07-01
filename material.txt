@@ -1,0 +1,64 @@
+A2011
+A2017
+A5052
+A5056
+A6061
+A6063
+A7075
+SS400
+SS400D
+S45C
+HSS Steel
+S50C
+SK4
+SK5
+SKD11
+SKS93
+SKS3
+SCM435
+SCM415
+SCM420
+SMU21
+SMU22L
+SMU24L
+SUJ2
+SPCC
+SPCC T = 1.2 mm
+SPHC
+Carbide
+SUS303
+SUS304
+SUS304 T = 1.5 mm
+SUS316
+SUS440C
+440C
+SUS410
+SUS420J (STAVAX)
+C2801P
+C3604BD
+Copper
+White POM
+Black POM
+White Delrin
+Black Delrin
+Superlene Nylon
+MC Nylon
+MC501CDR6
+Ultem 1000
+PEEK
+G11
+CDM
+RISHO
+Bakelite
+Bakelite (Black)
+Bakelite (Orange)
+Acrylic Clear
+ACP Silver
+aluminum composite
+Transparent Acrylic(White Coating on Back)
+PET(Clear color)
+Urethane (A70)
+Urethane (A90)
+Urethane
+N/A
+-
